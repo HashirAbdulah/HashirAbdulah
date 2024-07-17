@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/muhammad-hashir-abdullah" target="_blank">
+ <a href="https://www.linkedin.com/in/muhammad-hashir-abdullah-2b7271240" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HashirAbdulah"/>
  </a>
  <a href="https://instagram.com/_muhammadhashirabdullah" target="_blank">
