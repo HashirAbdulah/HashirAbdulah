@@ -75,8 +75,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 <br/>
 
 ## Use To Code
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="git" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="git" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="python" /></a>
