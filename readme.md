@@ -43,9 +43,16 @@
  </a> 
 </p>
 <br />
+## 🎓 Education
 
+_BSCS from University of Lahore_
+
+## 🌟 Bio
+
+_I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills in Java. Outside of academia, I'm deeply involved in Development
 <!-- About Section -->
  # About me
+
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
