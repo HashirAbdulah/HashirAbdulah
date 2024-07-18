@@ -43,13 +43,7 @@
  </a> 
 </p>
 <br />
-## 🎓 Education
 
-_BSCS from University of Lahore_
-
-## 🌟 Bio
-
-_I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills in Java. Outside of academia, I'm deeply involved in Development
 <!-- About Section -->
  # About me
 
@@ -63,6 +57,18 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
  💬 &emsp; Ask me about anything [here](https://github.com/HashirAbdulah/HashirAbdulah/issues)
 
 </p>
+
+<br/>
+<br/>
+<br/>
+
+## 🎓 Education
+
+_BSCS from University of Lahore_
+
+## 🌟 Bio
+
+_I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills in Java. Outside of academia, I'm deeply involved in Web Development.
 
 <br/>
 <br/>
