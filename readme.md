@@ -91,7 +91,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 - _Web Development_
 - _Data Structures and Algorithms_
 - _Python_
-<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="right">
+<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="left">
 
 <p align="center">
   <a href="https://github.com/HashirAbdulah">
