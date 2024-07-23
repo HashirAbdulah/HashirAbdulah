@@ -49,7 +49,7 @@
 
  
 <p>
- <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="right">
+ <!-- <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="right"> -->
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
@@ -78,8 +78,14 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode)](https://skillicons.dev)
 
 
-
+## 🌱 Currently Learning
+- _Web Development_
+- _Data Structures and Algorithms_
+- _Machine Learning & Deep Learning_
+<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
 <p align="left">
+
+  
   <a href="https://github.com/HashirAbdulah?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
