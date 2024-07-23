@@ -76,17 +76,17 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 ## Use To Code
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode)](https://skillicons.dev)
-
+ <a href="https://github.com/HashirAbdulah?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 
 ## 🌱 Currently Learning
 - _Web Development_
 - _Data Structures and Algorithms_
-- _Machine Learning & Deep Learning_
+- _Python_
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
 <p align="left">
 
   
-  <a href="https://github.com/HashirAbdulah?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+ 
 </p>
 
 <br/>
