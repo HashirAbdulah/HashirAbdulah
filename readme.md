@@ -75,7 +75,7 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 <br/>
 
 ## Use To Code
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,django)](https://skillicons.dev)
 
 
 
