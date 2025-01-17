@@ -95,12 +95,6 @@ _I'm currently pursuing BSCS at University of Lahore, where I'm honing my skills
 
 <p align="center">
   <a href="https://github.com/HashirAbdulah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashirAbdulah&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HashirAbdulah">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HashirAbdulah&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
